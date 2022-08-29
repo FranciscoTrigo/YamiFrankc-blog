@@ -11,4 +11,5 @@ Hola!
 Este es la pagina y blog de YamiFrankc.
 Aqui encontraras algunas cosas sobre tecnologia o videojuegos y anime.
 
+
 ---

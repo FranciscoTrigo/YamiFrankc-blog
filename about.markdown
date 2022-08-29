@@ -4,17 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is a website for YamiFrankc. Is it cool? I dont know if is, but please read it for some stuff.  
-:)  
-
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<img align="left" width="300" height="300" src="/assets/yami-foto.jpg">
+This is a website for YamiFrankc. YamiFrankc is a guy. He likes to play games and stuff.
