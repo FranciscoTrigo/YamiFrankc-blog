@@ -21,7 +21,8 @@
 title: Blog
 email: Yami@yamifrankc.com
 description: >- # this means to ignore newlines until "baseurl:"
- Copyright 2022-2022 YamiFrankc. Just a website using Jekyll.
+ Copyright 2022-2022 YamiFrankc. Just a website using Jekyll from [this repository](https://github.com/FranciscoTrigo/YamiFrankc-blog)
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yamifrankcc
