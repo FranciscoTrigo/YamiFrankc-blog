@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "My Ergodox"
+title: "My Ergodox and a new layout"
 date: 2022-09-02 23:11 -0500
-categories: jekyll update
+categories: personal setup
+tags: [ergonomics, ergodox, QMK]
 ---
 
 <style type="text/css">
