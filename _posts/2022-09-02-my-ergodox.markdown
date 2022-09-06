@@ -32,4 +32,6 @@ While the ergonomics and coolness factor of it being split (thats the reason I g
 
 I've been feeling really good using it and it was easy to adapt to the layout, altought I still don't find a good spot to place the right half, my right hand never hurts but its not very confortable either, I still have to find the perfect spot for it.
 
+## My layout
+
 My custom layout is not very adventurous, its mostly just normal Qwerty, with a couple modifications to make it more streamlined to what I do in my day to day. You can see it here:
