@@ -34,4 +34,6 @@ I've been feeling really good using it and it was easy to adapt to the layout, a
 
 ## My layout
 
-My custom layout is not very adventurous, its mostly just normal Qwerty, with a couple modifications to make it more streamlined to what I do in my day to day. You can see it here:
+My custom layout is not very adventurous, its mostly just normal Qwerty, with a couple modifications to make it more streamlined to what I do in my day to day. You can see it here: ------
+
+I just added a few:
