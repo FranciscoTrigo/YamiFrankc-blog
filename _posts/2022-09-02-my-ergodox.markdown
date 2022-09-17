@@ -24,7 +24,7 @@ tags: [ergonomics, ergodox, QMK]
 For a number of years now (I started maybe in 2017) I have been using an ergonomic split keyboard of open source design, the [Ergodox](https://www.ergodox.io/). You can either build it yourself from scratch, build it from parts or buy a completed working keyboard from a company or an independent builder. I have two, an [Infinity](https://drop.com/buy/infinity-ergodox) and an [Ergodox-EZ](https://ergodox-ez.com/).
 
 {% include image.html
-    img="/assets/ergodox/ergodox-full.jpg"
+    img="assets/ergodox/ergodox-full.jpg"
     title="My Ergodox"
     caption="I have keycaps with Japanese legedns because I'm a weeb. Also notice the Gamers Nexus mousepad." %}
 
@@ -52,7 +52,7 @@ Not much to see here. Just a basic QWERTY layout. I have buttons to change layer
 ### Layer 1
 
 {% include image.html
-    img="/assets/ergodox/ergodox-layer2.png"
+    img="assets/ergodox/ergodox-layer2.png"
     title="My Ergodox"
     caption="You could call this my functional layer" %}
 
@@ -63,7 +63,7 @@ On the right half there is a numpad, but I rarely use it. In fact I forgot it wa
 ### Layer 2
 
 {% include image.html
-    img="/assets/ergodox/ergodox-layer3.png"
+    img="assets/ergodox/ergodox-layer3.png"
     title="My Ergodox"
     caption="The mouse layer." %}
 
