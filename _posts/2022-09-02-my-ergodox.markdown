@@ -8,7 +8,7 @@ tags: [ergonomics, ergodox, QMK]
 
 <style type="text/css">
     .image-wrapper {
-    text-align: right;
+    text-align: center;
 
     .image-caption {
         color: red;
@@ -43,7 +43,7 @@ Its still a work in progress, buts lets take as quick look:
 ### Layer 0
 
 {% include image.html
-    img="/assets/ergodox/ergodox-layer1.png"
+    img="assets/ergodox/ergodox-layer1.png"
     title="My Ergodox"
     caption="This is my main writting layer" %}  
 
