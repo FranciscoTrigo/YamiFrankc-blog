@@ -9,11 +9,11 @@ tags: [ergonomics, ergodox, QMK]
 <style type="text/css">
     .image-wrapper {
     text-align: center;
+    /* background-color: brown; */
+    color: gray;
 
     .image-caption {
-        color: red;
         margin-top: $spacing-unit / 3;
-        background-color: red;
     }
 }
 </style>
