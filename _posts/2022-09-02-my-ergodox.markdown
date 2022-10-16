@@ -26,17 +26,17 @@ For a number of years now (I started maybe in 2017) I have been using an ergonom
 {% include image.html
     img="assets/ergodox/ergodox-full.jpg"
     title="My Ergodox"
-    caption="I have keycaps with Japanese legedns because I'm a weeb. Also notice the Gamers Nexus mousepad." %}
+    caption="I have keycaps with Japanese legends because I'm a weeb. Also notice the Gamers Nexus mousepad." %}
 
-While the ergonomics and coolness factor of it being split (thats the reason I got it in the first place!) are pretty nifty, the best feature by a longo shot is that it is completely customizable, mine uses the open source firmware [QMK](https://qmk.fm/), I'm not going to talk too much about what QMK is or how to use use it, you just need to know its a very configurable firmware for keyboards that is coded in C, and its compatible with a huge number of [different keyboards](https://qmk.fm/keyboards/).
+While the ergonomics and coolness factor of it being split (that's the reason I got it in the first place!) are pretty nifty, the best feature by a long shot is that it is completely customizable, mine uses the open source firmware [QMK](https://qmk.fm/), I'm not going to talk too much about what QMK is or how to use use it, you just need to know its a very configurable firmware for keyboards that is coded in C, and its compatible with a huge number of [different keyboards](https://qmk.fm/keyboards/).
 
-I've been feeling really good using it and it was easy to adapt to the layout, altought I still don't find a good spot to place the right half, my right hand never hurts but its not very confortable either, I still have to find the perfect spot for it.
+I've been feeling really good using it and it was easy to adapt to the layout, although I still don't find a good spot to place the right half, my right hand never hurts but its not very comfortable either, I still have to find the perfect spot for it.
 
 ## My layout
 
 My custom layout is not very adventurous, its mostly just normal Qwerty, with a couple modifications to make it more streamlined to what I do in my day to day. You can see it here: [online configurator](https://configure.zsa.io/ergodox-ez/layouts/RWOE5/latest/1).
 
-I used to edit the code by hand and compile it myself, but I recently found out the online configurator has gotten much better than it was and now it mostly satiesfies my needs.
+I used to edit the code by hand and compile it myself, but I recently found out the online configurator has gotten much better than it was and now it mostly satisfices my needs.
 
 Its still a work in progress, buts lets take as quick look:
 
